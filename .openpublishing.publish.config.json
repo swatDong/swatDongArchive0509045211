@@ -1,22 +1,6 @@
 {
   "docsets_to_publish": [
     {
-      "docset_name": "qidonArchiveTest",
-      "build_source_folder": "qidonArchiveTest",
-      "build_output_subfolder": "qidonArchiveTest",
-      "locale": "en-us",
-      "monikers": [],
-      "moniker_ranges": [],
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
-    },
-    {
       "docset_name": "swatDongArchive0509045211",
       "build_source_folder": "swatDongArchive0509045211",
       "build_output_subfolder": "swatDongArchive0509045211",
